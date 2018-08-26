@@ -83,5 +83,6 @@ In the event that this alert fires, the following response procedures are recomm
 # Additional Resources
 *[mimikats Documentation](https://github.com/gentilkiwi/mimikatz/blob/master/README.md)
   *Credential Dumper Capable of obtaining Plaintext Windows Credentials
+  
 *[MimiPenguin Documentation]
   *Similar to Mimikatz, but built mostly for Linux environments.

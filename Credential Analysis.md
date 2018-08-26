@@ -81,8 +81,8 @@ In the event that this alert fires, the following response procedures are recomm
 * If the process behavior seems unusual, or if the SAM was not utilized in the alerted instance, escalate to a security incident. 
 
 # Additional Resources
-*[mimikats Documentation](https://github.com/gentilkiwi/mimikatz/blob/master/README.md)
-  *Credential Dumper Capable of obtaining Plaintext Windows Credentials
+* [mimikatz Documentation](https://github.com/gentilkiwi/mimikatz/blob/master/README.md)
+  * Credential Dumper Capable of obtaining Plaintext Windows Credentials
   
-*[MimiPenguin Documentation]
-  *Similar to Mimikatz, but built mostly for Linux environments.
+* [MimiPenguin Documentation](https://github.com/huntergregal/mimipenguin)
+  * Similar to Mimikatz, but built mostly for Linux environments.
